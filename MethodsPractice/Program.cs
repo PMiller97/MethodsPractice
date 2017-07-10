@@ -40,6 +40,15 @@ namespace MethodsPractice
             //WageCalculator(hoursWorked, hourlyWage);
             //Console.WriteLine("Your monthly wage is {0}.", WageCalculator(hoursWorked, hourlyWage));
 
+            //FavoriteMovie("The Dark Knight.");
+
+            //double timesInWeek = 5d;
+            //double priceOfCoffee = 2.50d;
+            //double coffee = CoffeeADay(timesInWeek, priceOfCoffee);
+            //Console.WriteLine("The amount of money spent on coffee in a week is {0}", coffee);
+
+
+
 
 
 
@@ -128,12 +137,30 @@ namespace MethodsPractice
     //}
 
 
-    //    public static double WageCalculator(double hoursWorkedWeekly, double hourlyWage)
-    //    {
-    //        //this method should calulate the MONTHLY wage
-    //        double monthlyWage = (hoursWorkedWeekly * 52 * hourlyWage) / 12;
-    //        return monthlyWage;
-    //    }
+        //public static double WageCalculator(double hoursWorkedWeekly, double hourlyWage)
+        //{
+        //    //this method should calulate the MONTHLY wage
+        //    double monthlyWage = (hoursWorkedWeekly * 52 * hourlyWage) / 12;
+        //    return monthlyWage;
+        //}
+
+
+        //Create two methods of your choosing. At least one of the methods should have non-void return type.
+        //Both of the methods should take at least one parameter.
+        //Rememebr when naming your method that it should represent what your method does.
+        //Your method should only aim to accomplish one thing.
+        //Be creative.
+
+        //public static void FavoriteMovie(string name)
+        //{
+        //    Console.WriteLine("Paige's favorite movie is {0}", name);
+        //}
+
+        //public static double CoffeeADay(double timesInWeek, double priceOfCoffee)
+        //{
+        //    double weeklyCoffee = (timesInWeek * priceOfCoffee);
+        //    return weeklyCoffee;
+        //}
 
 
 
